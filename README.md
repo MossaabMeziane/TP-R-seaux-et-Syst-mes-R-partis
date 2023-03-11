@@ -1,2 +1,4 @@
-# TP-R-seaux-et-Syst-mes-R-partis
-contains the work of student Meziane Mossaab from Master 1 - Wic 2
+# TP Reseaux et system repartis 
+## Notes :
+Etudiant : Meziane Mosssaab Salah Eddine
+Master 1 - Wic Groupe 02 
